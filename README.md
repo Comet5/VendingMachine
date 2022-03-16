@@ -1,7 +1,6 @@
 # VendingMachine
 
 ### 파일 구조
-0. Main - 자판기 실행 메인클래스
 1. Client - 이용자
 2. Machine - 자판기
 3. Product - 상품
